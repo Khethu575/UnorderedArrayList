@@ -5,6 +5,7 @@
 #include "list.h"
 #include <iostream>
 
+//main function
 int _tmain(int argc, _TCHAR* argv[])
 {
 List L;
